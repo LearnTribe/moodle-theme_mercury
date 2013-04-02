@@ -16,7 +16,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'theme_mercury', language 'en', branch 'MOODLE_20_STABLE'
+ * Strings for component 'theme_mercury', language 'en', branch 'MOODLE_24_STABLE'
  *
  * @package   moodlecore
  * @copyright 2013 Gordon McLeod @LearnTribe        
